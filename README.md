@@ -1,5 +1,5 @@
 # Testes-Mobile-Appium
-Testes mobile da plataforma https://seubarriga.wcaquino.me
+Testes mobile da plataforma Seu Barriga (https://seubarriga.wcaquino.me)
 
 S.O: Android <br/>
 Linguagem: Java <br/>
