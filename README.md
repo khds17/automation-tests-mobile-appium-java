@@ -1,8 +1,8 @@
 # Testes-Mobile-Appium
 Testes mobile da plataforma https://seubarriga.wcaquino.me
 
-S.O: Android 
-Linguagem: Java
-Arquitetura de programação: POO 
-Arquitetura de testes: PageObject
+S.O: Android <br/>
+Linguagem: Java <br/>
+Arquitetura de programação: POO <br/>
+Arquitetura de testes: PageObject <br/>
 Framework: Appium.
