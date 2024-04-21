@@ -1,4 +1,4 @@
-# Testes-Mobile-Appium
+# Automation tests mobile with appium and Java
 Testes mobile da plataforma Seu Barriga (https://seubarriga.wcaquino.me)
 
 S.O: Android <br/>
